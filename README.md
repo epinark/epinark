@@ -9,4 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,nodejs,express,postgresql,sqlite,mongodb)](https://skillicons.dev)
 
 ## Additional Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
