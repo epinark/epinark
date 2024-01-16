@@ -7,6 +7,6 @@
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,styledcomponents,sass,nodejs,express,mongodb,mysql,postgresql,sqlite)
-
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
 ## Additional Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
