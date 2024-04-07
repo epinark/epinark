@@ -6,7 +6,7 @@
 
 ✨ Feel free to reach out for collaboration! 
 
-🌱 Currently diving into TypeScript.
+
 
 
  ## Reach me on 
